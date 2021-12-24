@@ -1,4 +1,4 @@
-FROM swartz
+FROM svaths/seleniumdemo:v1
 
 ADD Blob /var/www/html/
 
