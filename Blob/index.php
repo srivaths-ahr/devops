@@ -65,7 +65,7 @@ catch(Exception $e)
 	</div>
   <br><br>
   <div class="col-sm-4" >
-	Enter Password
+	Enter Password Here
 	</div>
   <div class="col-sm-4">
 	<input type='password' name='password'/>
